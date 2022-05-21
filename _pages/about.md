@@ -16,5 +16,5 @@ Contact Information
 ======
  Charles H. Dyson School of Applied Economics and Management <br/>
  366 Warren Hall, Ithaca, NY <br/>
- Email: zx244@cornell.edu <br/>
+ Email: yolandaxue827@gmail.com <br/>
  LinkedIn: www.linkedin.com/in/yolandaxue
