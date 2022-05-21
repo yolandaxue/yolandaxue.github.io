@@ -1,15 +1,12 @@
 ---
 title: "Handbook of Machine Learning for Social Sciences"
-collection: posts
-layout: single
-permalink: /posts/ml-for-socsci
+permalink: /posts/2022/05/ml-for-socsci
 date: 2022-05-21
 excerpt_separator: <!--more-->
-tags:
-	-- machine learning
-order_number: 10
-share: false
-comments: false
+tags: - machine learning
+share: true
+comments: true
+toc: true
 
 ---
 This handbook is a collaborative work with <a href="https://angelhwang.github.io/">Angel Hwang</a> and <a href="https://remypstewart.github.io/">Remy Stewart</a> designed for researchers in social sciences. We expect that the audience will have basic knowledge of Python and have at least taken a course in calculus and statistics. This handbook aims to offer you practical experience with machine learning models.
