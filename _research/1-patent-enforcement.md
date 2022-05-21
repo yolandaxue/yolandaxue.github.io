@@ -25,4 +25,4 @@ How does patent litigation by Patent Assertion Entities impact invention activit
 
 ## Work in Progress
 
-Spillover effects of patent enforcement on innovation disclosure: Evidence from patent text data<br/>
+Patent litigation and firms’ invention disclosure strategies<br/>
