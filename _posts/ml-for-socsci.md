@@ -3,12 +3,17 @@ title: "Handbook of Machine Learning for Social Sciences"
 collection: posts
 layout: single
 permalink: /posts/ml-for-socsci
+date: 2022-05-21
+excerpt_separator: <!--more-->
+tags:
+	-- machine learning
 order_number: 10
 share: false
 comments: false
 
 ---
 This handbook is a collaborative work with <a href="https://angelhwang.github.io/">Angel Hwang</a> and <a href="https://remypstewart.github.io/">Remy Stewart</a> designed for researchers in social sciences. We expect that the audience will have basic knowledge of Python and have at least taken a course in calculus and statistics. This handbook aims to offer you practical experience with machine learning models.
+<!--more-->
 
 In this handbook, we are not attempting to teach math behind machine learning. When we walk you through the basic concepts, we use the minimum amount of equations. However, it is essential to understand statistical inference in order to use machine learning in your research better and be able to discuss the advantages and flaws of the application of machine learning models. Therefore, in each chapter (and each section in each chapter), we provide you with a list of resources in case you are interested in digging into certain concepts and/or models.
 
