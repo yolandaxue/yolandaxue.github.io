@@ -6,7 +6,8 @@ excerpt_separator: <!--more-->
 share: true
 comments: true
 toc: true
-tags: - machine learning
+tags:
+ - machine learning
 ---
 This handbook is a collaborative work with <a href="https://angelhwang.github.io/">Angel Hwang</a> and <a href="https://remypstewart.github.io/">Remy Stewart</a> designed for researchers in social sciences. We expect that the audience will have basic knowledge of Python and have at least taken a course in calculus and statistics. This handbook aims to offer you practical experience with machine learning models.
 <!--more-->
