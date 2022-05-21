@@ -1,6 +1,6 @@
 ---
 title: "Handbook of Machine Learning for Social Sciences"
-permalink: /posts/2022/05/ml-for-socsci
+permalink: /posts/2022/05/ml-for-socsci/
 date: 2022-05-21
 excerpt_separator: <!--more-->
 share: true
